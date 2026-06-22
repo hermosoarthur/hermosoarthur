@@ -66,12 +66,17 @@ Minha trajetória combina a prática em desenvolvimento de software (Mobile e Fu
 
 ## 🚀 Projetos em Destaque
 
-### 🍔 [Kifome — Plataforma de Delivery](https://github.com/hermosoarthur)
+### 🍔 [Kifome — Plataforma de Delivery](https://github.com/hermosoarthur/Kifome-SistemadeDelivery)
 Uma aplicação completa (Web e Mobile) desenvolvida focando na arquitetura de microserviços e APIs robustas.
 * **Engenharia de Dados:** Modelagem física complexa utilizando **PostgreSQL** e **Supabase**, focando na eliminação de redundâncias e persistência segura de dados transacionais.
 * **Segurança:** Implementação de controle de acesso rigoroso a rotas protegidas no ecossistema Node.js através de **Autenticação JWT**.
 
-### 💈 [App de Barbearia — Agendamentos](https://github.com/hermosoarthur)
+### 🍕 [MonteAqui — Plataforma Exclusiva de Pizzas](https://github.com/hermosoarthur/MonteAqui-Plataforma-Exclusiva-de-Pizzas)
+Solução de e-commerce interativo projetada para gerenciar fluxos complexos de customização de produtos em tempo real com alta fidelidade visual e reatividade.
+* **Lógica de Negócios & UX:** Implementação de gerenciamento de estado avançado para processar a seleção dinâmica de múltiplos ingredientes, cálculo automático de preços e regras de negócio assíncronas sem causar gargalos na interface (UI).
+* **Segurança de Dados:** Validação rigorosa dos esquemas de dados (*schemas*) nos payloads de envio, prevenindo que alterações maliciosas de valores ou injeções manipulem o preço final na requisição de checkout.
+
+### 💈 [App de Barbearia — Agendamentos](https://github.com/hermosoarthur/APP-GESTAO-BARBEARIA)
 Aplicativo mobile para automação e reservas de horários em tempo real (CRUD completo).
 * **Mitigação de Riscos:** Implementação de autenticação multifator segura baseada em validação via telefone com **Firebase Auth**, prevenindo acessos automatizados (bots) e fraudes de identidade.
 
